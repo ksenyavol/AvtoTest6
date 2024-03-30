@@ -5,3 +5,4 @@ extensions:
   - io.qameta.allure.packages.PackagesPlugin
 jsFiles:
   - index.js
+  -

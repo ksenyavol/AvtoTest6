@@ -3,3 +3,4 @@ name: JUnit Plugin
 description: The plugin that adds support for results in JUnit.xml data format.
 extensions:
   - io.qameta.allure.junitxml.JunitXmlPlugin
+  -

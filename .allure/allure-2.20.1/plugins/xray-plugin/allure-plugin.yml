@@ -3,3 +3,4 @@ name: Xray Plugin
 description: The plugin that adds support for Xray integration.
 extensions:
   - io.qameta.allure.xray.XrayTestRunExportPlugin
+  -
